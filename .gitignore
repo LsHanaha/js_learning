@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+course-material-v2.0/*
+starter/*
